@@ -10,9 +10,9 @@
 
 - See the [Official Trailer](https://www.youtube.com/watch?v=Jfe2Gn9S7oQ)
 
-- See `2.5.0 beta version` [Intro Level Gameplay](https://www.youtube.com/watch?v=Ix6UJmYa_jI)
+- See `2.5.0 beta version` [Intro Level GamePlay](https://www.youtube.com/watch?v=Ix6UJmYa_jI)
 
-- See `2.5.0 beta version` [Sky level Gameplay](https://youtu.be/H_6G8MWQZ3E)
+- See `2.5.0 beta version` [Sky level GamePlay](https://youtu.be/H_6G8MWQZ3E)
 
 - See the [Formal Elements](formal-elements.md)
 
